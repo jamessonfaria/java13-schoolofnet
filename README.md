@@ -9,3 +9,6 @@
 
 ### Template Strings (Multiline)
 - Permite agora no java uma forma mais prática com os blocos de texto.
+
+### Condição Switch
+- Nova forma de trabalhar com switch, usando lambda e o yield para retornar valores. 
