@@ -7,4 +7,5 @@
 ### Helper Methods Collection
 - Métodos para facilitar a inicialização das collections, também nova possibilidade de usar o iterate no stream.
 
-###
+### Template Strings (Multiline)
+- Permite agora no java uma forma mais prática com os blocos de texto.
